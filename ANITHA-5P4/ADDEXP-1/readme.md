@@ -81,12 +81,12 @@ END;
 
 ```
 
-### Output
+
 ![output](a1d.png)
 
 
 
-## Execute for an Invalid Student ID
+# Execute for an Invalid Student ID
 
 ### Output
 ![output](a1e.png)
